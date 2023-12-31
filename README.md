@@ -22,6 +22,5 @@ Build your hackintosh with OpenCore (0.9.7).
 
 <img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/40ed95b4-c331-43c5-aaac-42bda670c72b">
 <img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/1e076b58-a5a4-4629-b18e-03c331723697">
-<img width="908" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/bb6c70ea-4eff-4f16-b3f3-7ae8cc06895b">
 <img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/295dd526-7085-4f83-a496-39563066c905">
 
