@@ -2,7 +2,7 @@
 Build your hackintosh with OpenCore (0.9.7). 
 
 
-<img width="280" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/656689c0-b09b-44fa-b9b3-f466239f4a54">
+<img width="280" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/32492eca-a9cf-41f0-927d-820c7b231a86">
 
 
 
@@ -20,6 +20,8 @@ Build your hackintosh with OpenCore (0.9.7).
 | WNIC        | Intel Wi-Fi 6 AX201 With BT 5.2         | ✅           |
 
 
-<img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/45ac88a4-db16-4a2b-bd01-ce60b9a0f383">
-<img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/ba2c4b1b-776f-4216-b414-5909bd559725">
-<img width="908" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/d82e718d-fe82-4006-8e52-ed2c645bc50b">
+<img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/40ed95b4-c331-43c5-aaac-42bda670c72b">
+<img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/1e076b58-a5a4-4629-b18e-03c331723697">
+<img width="908" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/bb6c70ea-4eff-4f16-b3f3-7ae8cc06895b">
+<img width="1818" alt="image" src="https://github.com/kinbos/hackintosh-13600KF-TUF_B660M_D4-6800-AX201-sonoma-EFI/assets/3354992/295dd526-7085-4f83-a496-39563066c905">
+
